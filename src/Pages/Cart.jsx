@@ -35,7 +35,7 @@ const Cart = () => {
             </div>
 
             {/* RIGHT SIDE (Summary) */}
-            <div className="bg-gray-50 p-6 rounded-xl shadow-md h-fit sticky top-10">
+            <div className="bg-gray-50 p-6 rounded-xl shadow-md h-fit sticky top-24">
 
               <h2 className="text-gray-500 font-semibold">YOUR CART</h2>
               <h1 className="text-2xl font-extrabold text-green-600">

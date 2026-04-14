@@ -14,8 +14,6 @@ const CartItem = ({ item }) => {
 
   return (
     <div className="flex gap-6 border-b pb-6">
-
-      {/* Image */}
       <div className="w-28 h-28">
         <img
           src={item.image}
